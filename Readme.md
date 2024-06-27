@@ -18,3 +18,11 @@ code-switching on ASR performance has recently sparked research interest
 
 Mussakhojayeva, S., Khassanov, Y. , Varol, H.A.: KSC2: An Industrial-Scale Open-Source Kazakh Speech Corpus. In: Proceedings of the 23rd INTERSPEECH Conference: pp. 1367-1371. 2022.
 
+
+
+
+This is essentially Test_flat which has been split into further training and testing sets 
+(only contains 9k pieces of data)
+
+That's what we used to finetune model
+https://huggingface.co/datasets/BilalS96/ISSAI_KSC2
